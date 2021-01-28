@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieuvanflieberge/afec-blogwebsite.git"
+    "url": "git+https://github.com/mmargauxx/eleventyspace.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mathieuvanflieberge/afec-blogwebsite/issues"
+    "url": "https://github.com/mmargauxx/eleventyspace.git/issues"
   },
-  "homepage": "https://github.com/mathieuvanflieberge/afec-blogwebsite",
+  "homepage": "https://github.com/mmargauxx/eleventyspace.git",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   },
