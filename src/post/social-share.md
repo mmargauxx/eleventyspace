@@ -1,5 +1,5 @@
 ---
-title: 'Automatic Social Share Images'
+title: "Automatic Social Share Images"
 date: 2021-01-01
 tags: ['social share, automatic, images, cool']
 ---
