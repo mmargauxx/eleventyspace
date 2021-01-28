@@ -1,6 +1,6 @@
 ---
 title: 'Building a Great Color Palette'
-date: 2021-01-02
+date: '2021-01-02'
 tags: ['color palette, noice']
 ---
 ### Building a Great Color Palette

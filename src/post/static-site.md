@@ -1,6 +1,6 @@
 ---
 title: 'Beginner's Guide to Static Site Generators'
-date: 2020-12-25
+date: '2020-12-25'
 tags: ['static site generators, beginner']
 ---
 ### Beginner's Guide to Static Site Generators
