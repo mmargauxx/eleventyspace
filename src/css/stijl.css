@@ -23,6 +23,11 @@ h1{
 	align-items: center;
 }
 
+a {
+	text-decoration: none;
+	color: #F9A826;
+}
+
 header h1 a {
 	color: #4c566a;
 	text-decoration: none;
