@@ -1,0 +1,26 @@
+{
+  "name": "afec-demo0",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieuvanflieberge/afec-blogwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathieuvanflieberge/afec-blogwebsite/issues"
+  },
+  "homepage": "https://github.com/mathieuvanflieberge/afec-blogwebsite",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
