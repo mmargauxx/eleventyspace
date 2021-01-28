@@ -1,7 +1,7 @@
 ---
 title: 'Contact Me'
 layout: 'layouts/page.html'
-custom_css: 'footer {visibility: visible; font-size:0.5rem;} p {font-size: 2rem} p {font-family: Roboto} main {margin-top: 15%;}'
+custom_css: 'footer {visibility: visible; font-size:0.5rem;} p {font-size: 2rem} main {margin-top: 15%;}'
 ---
 
 Gent

@@ -5,7 +5,7 @@ image: '/img/GOEIENHANDEL_Portfolio.jpg'
 displayOrder: 3
 featured: true
 layout: 'layouts/work.html'
-custom_css: 'p {font-size: 1em} main, footer {font-family: Roboto}'
+custom_css: 'p {font-size: 1em} main, footer {font-family: Rubik}'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat viverra feugiat. Nulla mattis urna ac laoreet convallis. Mauris tempor lacinia condimentum. Fusce volutpat sollicitudin nunc, eu porttitor nulla varius non. Nam in sagittis purus, id volutpat turpis. Fusce nibh nulla, finibus sed enim vel, ullamcorper consectetur lectus. Donec sit amet augue augue. Proin eros lectus, pulvinar sit amet ligula ut, malesuada mattis sem. Mauris egestas tellus vitae quam pretium dictum hendrerit nec neque. Nullam id metus ultrices, tincidunt nisi in, congue arcu. Aliquam eu commodo massa. Fusce placerat orci vitae sollicitudin aliquet.

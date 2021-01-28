@@ -1,15 +1,27 @@
+html{
+	background-color: #fdfdfd;
+	font-family: 'Rubik', sans-serif;
+}
+
 body {
 	width: 80vw;
 	margin: 5rem auto;
 	font-size: 2rem;
-	font-family: 'Rubik', sans-serif;
+}
+
+h1{
+	font-size: 2em;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
 }
 
 header h1 a {
-	color: black;
+	color: #4c566a;
 	text-decoration: none;
 	font-size: 3rem;
-	font-family: 'Rubik', sans-serif;
 }
 
 header nav ul {
@@ -23,7 +35,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-	color: black;
+	color:#4c566a;
 	padding: 1rem;
 	border-radius: 0.5rem;
 	text-decoration: none;
@@ -33,13 +45,13 @@ header nav ul li a:hover {
 	color: white;
 	padding: 1rem;
 	border-radius: 0.5rem;
-	background-color: #9013fe;
+	background-color: #F9A826;
 	text-decoration: none;
 }
 
 header nav ul li a.selected {
 	color: white;
-	background-color: #9013fe;
+	background-color: #F9A826;
 }
 
 header {
@@ -102,11 +114,6 @@ main {
 
 /* My Styles */
 
-#dot {
-	color: #9013fe;
-}
-
-#insta {
-	font-size: 0.3em;
-	line-height: 300%;
+.accent {
+	color: #F9A826;
 }
