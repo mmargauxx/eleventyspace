@@ -1,5 +1,5 @@
 ---
-title: 'Tag Archief'
+title: 'Tags Archive'
 layout: 'layouts/tag.html'
 pagination:
   data: collections
