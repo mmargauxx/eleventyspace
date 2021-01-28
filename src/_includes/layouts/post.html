@@ -15,17 +15,4 @@
     </ul>
   {% endif %}
 
-
-{% set recommendedPosts = helpers.getSiblingContent(collections.blog, page) %}
-{% if recommendedPosts %}
-		<h2>Other posts</h2>
-		<ul class="blog">
-	  	{% for item in recommendedPosts %}
-	    <li>
-	    	<a href="{{ item.url }}">{{ item.data.title }}</a>
-	    </li>
-	    {% endfor %}
-	   </ul>
-{% endif %}
-
 {% endblock %}
