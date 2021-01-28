@@ -1,10 +1,16 @@
 ---
 title: 'About'
 layout: 'layouts/page.html'
+custom_css: 'footer {visibility: visible; font-size:0.5rem; position:absolute;bottom:1rem;} main {margin-top: 15%;}'
 ---
+<div class="grid">
+<div>
+Hi! My name is Margaux Laurier and I prefer to introduce myself as a Creative Developer.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+I am currently studying Graphic and Digital Media at the AP Hogeschool, but I soon knew that my main interest was coding. That is why I chose the elective course Advanced Front-end Coding again this year and took my first steps in the React and Eleventy world. In the future I would like to focus on custom built React Native websites and challenging projects.
+</div>
 
-![Een afbeelding](/img/Profiel_Portfolio.jpg)
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+![My Cat](/img/pluisje.jpg)
+
+</div>
